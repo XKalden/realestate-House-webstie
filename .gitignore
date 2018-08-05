@@ -1,0 +1,24 @@
+
+# Editor
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+*[Tt]humbs.db
+*.Trashes
+
+# Editor
+.vscode
+.swp
+.swo
+
+# npm
+node_modules/
+npm-debug.log
+package.json
+package-lock.json
+
+build/
+!build/index.html
